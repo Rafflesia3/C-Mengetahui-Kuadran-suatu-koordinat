@@ -1,0 +1,1 @@
+# C-Mengetahui-Kuadran-suatu-koordinat
